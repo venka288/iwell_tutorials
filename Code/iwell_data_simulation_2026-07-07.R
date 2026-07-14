@@ -17,7 +17,7 @@ set.seed(2004)
 ### using sample() to simulate data
 
 # loading in data dictionary
-dict <- read.csv("Data/iwell_data_dictionary_2026-07-14.csv")
+dict <- read.csv("../Data/iwell_data_dictionary_2026-07-14.csv")
 
 # create empty data frame and populate with id variable based on N (N = 426)
 dat <- data.frame(participant_id = c(1:426))
@@ -183,5 +183,11 @@ dat$gpa_sem_2 <- sample(possible_gpas, size = 426, replace = TRUE)
 dat$gpa_sem_3 <- sample(possible_gpas, size = 426, replace = TRUE)
 dat$gpa_sem_4 <- sample(possible_gpas, size = 426, replace = TRUE)
 
+# missingness
+dat <- delete_MCAR(dat, .04, c("major_sem_1", "gpa_sem_1"))
+dat <- delete_MCAR(dat, .08, c("major_sem_2", "gpa_sem_2"))
+dat <- delete_MCAR(dat, .12, c("major_sem_3", "gpa_sem_3"))
+dat <- delete_MCAR(dat, .16, c("major_sem_4", "gpa_sem_4"))
+
 # save new file
-write.csv(dat, "./Data/iwell_simulated_data_2026-07-14.csv", row.names = FALSE)
+write.csv(dat, "../Data/iwell_simulated_data_2026-07-14.csv", row.names = FALSE)

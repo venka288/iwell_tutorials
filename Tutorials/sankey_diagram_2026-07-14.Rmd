@@ -1,0 +1,91 @@
+---
+title: "Sankey Diagram Tutorial"
+author: "Varsha Venkatesh"
+date: "2026-07-14"
+output: html_document
+---
+## Getting started
+
+To create a longitudinal Sankey diagram in R, you will need a few packages as well as a longitudinal dataset with a categorical variable being tracked across timepoints. For the purposes of this tutorial, we are using the tutorial dataset, which is in wide format, to show how to appropriately reshape the data so it can be parsed by ggplot2.
+
+Let's say we want to make a Sankey diagram tracking college student majors across the first four semesters of college.
+
+```{r setup, include = TRUE}
+# for frequency tables
+library(summarytools)
+
+# for data manipulation
+library(dplyr)
+library(tidyr)
+library(stringr)
+
+# for sankey diagrams
+library(ggplot2)
+library(ggalluvial) # for sankey funcitonality with ggplot2
+library(jtools) # to put diagrams in apa format
+```
+
+```{r data, include = TRUE}
+# set working directory to iwell_tutorials/Tutorials
+dat <- read.csv("../Data/iwell_simulated_data_2026-07-14.csv")
+```
+
+## Data manipulation
+
+Our dataset "dat" is currently in wide format. We need to first select which variables we need and then pivot it to long format for ggplot2 to be able to understand it and create a graph.
+
+```{r data manipulation, include = TRUE}
+# checking column names to select variables
+colnames(dat)
+
+# we want the columns with the starting string "major_sem," so we will select those columns.
+sankeydat <- dat %>% 
+  select(major_sem_1, major_sem_2, major_sem_3, major_sem_4)
+
+# we will now make a column called "id" so ggalluvial can effectively track participants over time.
+sankeydat$id <- 1:nrow(sankeydat)
+
+# before we pivot, the column names are rather long! let's change them by stripping the starting string.
+sankeydat <- sankeydat %>% 
+  rename_with(~str_remove(., "major_sem_"))
+
+# we also want a way to handle NAs. let's label them as "No Data".
+sankeydat[is.na(sankeydat)] <- "No Data"
+
+# let's also check that we don't have any unexpected strings with a frequency table.
+freq(sankeydat)
+
+# because we have no NAs now, we can pivot our data to long format!
+sankeylong <- pivot_longer(
+  sankeydat,
+  cols = c("1", "2", "3", "4"),
+  names_to = "semester",                
+  values_to = "major"
+)
+
+# let's prepare our data for the diagram in the order we want them to show up. from the frequency tables, we see that Computer Science majors are most common, so we probably want that at the bottom and No Data on the top. 
+sankeylong$major <- factor(sankeylong$major, levels = c("No Data", "Biomedical Engineering", "Chemical Engineering", "Biology", "Mechanical Engineering", "Computer Science"))
+```
+
+## Making diagram
+
+Now that our data is reshaped and only contains the values we are interested in, we can make our Sankey diagram!
+
+```{r sankey diagram, include = TRUE}
+# using ggplot2 to make diagram
+ggplot(sankeylong,
+       aes(x = semester, stratum = major, alluvium = id, fill = major, label = major)) +
+  geom_flow(stat = "alluvium", lode.guidance = "frontback") +
+  geom_stratum() +
+  geom_text(
+    stat = "stratum", 
+    aes(label = paste0(after_stat(count), ", ", scales::percent(after_stat(prop)))), # adds labels with count and percentage
+    size = 3
+    ) + 
+  theme_apa() + # puts graph into apa format
+  theme(legend.position = "bottom") +
+  ggtitle("Academic Plan Across Four Semesters") +
+  xlab("Semester") +
+  ylab("# of Students") +
+  scale_fill_manual(values = c("#f94144", "#f9c74f", "#f8961e", "#577590", "#90be6d", "#43aa8b"))
+```
