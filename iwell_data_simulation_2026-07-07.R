@@ -182,3 +182,6 @@ dat$gpa_sem_1 <- sample(possible_gpas, size = 426, replace = TRUE)
 dat$gpa_sem_2 <- sample(possible_gpas, size = 426, replace = TRUE)
 dat$gpa_sem_3 <- sample(possible_gpas, size = 426, replace = TRUE)
 dat$gpa_sem_4 <- sample(possible_gpas, size = 426, replace = TRUE)
+
+# save new file
+write.csv(dat, "./Data/iwell_simulated_data_2026-07-14.csv", row.names = FALSE)

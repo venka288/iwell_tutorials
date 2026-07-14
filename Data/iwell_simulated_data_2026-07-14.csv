@@ -1,0 +1,427 @@
+"participant_id","age","gender","ethnicity","transfer","international","us_born","parent_ed_1","parent_ed_2","major_sem_1","major_sem_2","major_sem_3","major_sem_4","gpa_sem_1","gpa_sem_2","gpa_sem_3","gpa_sem_4"
+1,18,"Male","White",1,0,1,"Master's degree","Bachelor's degree (4 year degree)","Biology","Biology","Biology","Biology",3.62,3.76,3.72,3.6
+2,18,"Male","White",0,0,1,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Mechanical Engineering","Mechanical Engineering","Chemical Engineering","Chemical Engineering",2.07,2.7,3.36,2.7
+3,18,"Male","Hispanic/Latine",0,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Biomedical Engineering","Biomedical Engineering","Chemical Engineering","Chemical Engineering",3.38,3.96,2.23,2.2
+4,19,"Male","White",1,0,1,"Bachelor's degree (4 year degree)","High school diploma","Computer Science","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.46,3.37,2.89,2.89
+5,19,"Male","Black/African American",1,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Computer Science","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.82,2.05,3.55,2.8
+6,19,"Male","White",0,0,1,"High school diploma","Bachelor's degree (4 year degree)","Biology","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.32,3.85,3.22,2.96
+7,18,"Male","White",0,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Computer Science","Biology","Biology","Biology",2.47,3.79,3.92,2.03
+8,18,"Female","White",1,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.73,3.25,3.74,3.42
+9,19,"Nonbinary","White",1,0,1,"No school","High school diploma","Computer Science","Computer Science","Chemical Engineering","Biomedical Engineering",3.2,3.65,2.37,3.33
+10,20,"Male","White",0,0,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Biology","Computer Science","Computer Science","Computer Science",2.49,2.22,3.02,3.12
+11,20,"Female","White",1,0,1,"Master's degree","Master's degree","Computer Science","Computer Science","Computer Science","Computer Science",2.72,2.34,2.73,3.28
+12,22,"Female","Asian/Pacific Islander",1,0,1,"Some high school","Elementary school","Biology","Biology","Chemical Engineering","Chemical Engineering",3.44,2.18,3.21,3.11
+13,19,"Female","White",1,0,1,"Master's degree","High school diploma","Biomedical Engineering","Computer Science","Computer Science","Computer Science",3.17,2.75,2.85,2.46
+14,18,"Female","White",0,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Biomedical Engineering","Computer Science","Computer Science","Computer Science",2.98,3.32,2.89,2.7
+15,19,"Female","White",1,1,1,"High school diploma","Associates degree or equivalent (2 year degree)","Computer Science","Biology","Biology","Biology",3.75,3.7,2.73,3.69
+16,19,"Male","White",0,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Mechanical Engineering","Mechanical Engineering","Biology","Biology",3.98,3.44,2.69,3.4
+17,19,"Male","White",0,0,1,"Bachelor's degree (4 year degree)","High school diploma","Biology","Biology","Biology","Biology",3.09,2.97,2.77,2.64
+18,20,"Female","Asian/Pacific Islander",0,1,1,"High school diploma","High school diploma","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.1,3.53,3.12,2.69
+19,19,"Male","White",1,0,1,"Middle school/Junior high","High school diploma","Mechanical Engineering","Biology","Biology","Biology",2.63,2.86,2.24,3.96
+20,18,"Male","White",0,0,0,"High school diploma","Bachelor's degree (4 year degree)","Chemical Engineering","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.27,2.14,3.13,2.99
+21,19,"Male","Asian/Pacific Islander",0,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.11,3.6,2.48,3.41
+22,18,"Male","White",0,0,1,"High school diploma","Bachelor's degree (4 year degree)","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",2.78,2.83,2.23,2.95
+23,18,"Male","Multiracial",0,0,1,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering","Chemical Engineering",3.99,3.25,3.21,3.45
+24,22,"Female","White",0,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Computer Science","Computer Science","Computer Science","Computer Science",3.31,2.23,2.44,3.13
+25,18,"Male","Hispanic/Latine",0,0,1,"Bachelor's degree (4 year degree)","Master's degree","Biology","Biology","Biology","Biology",2.6,2.91,3.64,2.54
+26,18,"Male","Hispanic/Latine",1,0,1,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Biology","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.18,2.64,3.77,3.01
+27,18,"Male","White",0,1,1,"Master's degree","Associates degree or equivalent (2 year degree)","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.68,3.63,3.29,3.69
+28,21,"Male","White",0,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Biology","Biology","Biology","Biology",3.47,2.53,2.55,3.66
+29,19,"Female","Asian/Pacific Islander",1,0,1,"Bachelor's degree (4 year degree)","Some high school","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.27,2.87,2.8,2.47
+30,19,"Male","Black/African American",0,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Biology","Chemical Engineering","Computer Science","Computer Science",2.9,2.72,3.33,3.8
+31,18,"Male","White",0,0,1,"Bachelor's degree (4 year degree)","Doctorate or professional degree","Chemical Engineering","Biology","Biology","Biology",3.65,3.63,3.18,3.53
+32,18,"Male","Multiracial",0,0,1,"High school diploma","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.42,3.3,2.1,2.99
+33,18,"Male","White",1,0,1,"High school diploma","Master's degree","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.64,3.82,2.53,3.54
+34,18,"Female","Other",0,0,1,"High school diploma","High school diploma","Computer Science","Computer Science","Computer Science","Mechanical Engineering",2.19,3.74,3.06,3.04
+35,18,"Male","White",0,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Biomedical Engineering","Biomedical Engineering","Chemical Engineering","Chemical Engineering",2.44,2.14,2.21,3.07
+36,18,"Male","White",0,1,1,"No school","Some high school","Biology","Biology","Biology","Chemical Engineering",2.18,3.5,2.82,3.91
+37,18,"Male","White",0,0,0,"High school diploma","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.69,3.34,2.95,2.34
+38,20,"Female","White",0,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.49,3.92,2.77,2.5
+39,20,"Female","White",1,0,1,"High school diploma","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.43,2.7,3.72,2.79
+40,18,"Male","White",0,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.77,2.55,3.7,2.2
+41,18,"Female","White",1,0,1,"High school diploma","Master's degree","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.77,2.28,2.42,3.32
+42,18,"Female","White",0,0,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.86,2.89,2.46,2.79
+43,21,"Female","Asian/Pacific Islander",1,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Biology","Biology","Biology","Biology",3.32,3.87,3.81,3.28
+44,18,"Male","Other",0,0,1,"Bachelor's degree (4 year degree)","High school diploma","Computer Science","Computer Science","Biology","Biology",2.26,3.15,3.22,3.5
+45,19,"Female","Asian/Pacific Islander",0,0,0,"High school diploma","Associates degree or equivalent (2 year degree)","Biomedical Engineering","Computer Science","Computer Science","Computer Science",2.51,3.67,2.43,2.43
+46,18,"Male","White",0,0,1,"High school diploma","Master's degree","Computer Science","Computer Science","Computer Science","Computer Science",2.98,3.18,3.95,3.94
+47,18,"Female","White",1,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Mechanical Engineering","Mechanical Engineering","Biomedical Engineering","Biomedical Engineering",3.59,2.68,2.07,2.16
+48,20,"Male","Asian/Pacific Islander",1,0,1,"High school diploma","Bachelor's degree (4 year degree)","Biology","Mechanical Engineering","Computer Science","Computer Science",2.12,3.2,2.36,3.73
+49,18,"Female","Black/African American",0,0,1,"High school diploma","Bachelor's degree (4 year degree)","Computer Science","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.9,3.7,3.21,3.3
+50,22,"Male","White",0,0,1,"Bachelor's degree (4 year degree)","Middle school/Junior high","Computer Science","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.79,3.62,3.82,2.36
+51,20,"Female","Asian/Pacific Islander",1,0,1,"High school diploma","Elementary school","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.35,3.28,3.47,3.52
+52,21,"Female","White",0,0,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Biology","Computer Science","Computer Science","Computer Science",3.81,3.29,2.53,3.07
+53,18,"Female","White",1,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Biology","Biology","Biology","Computer Science",3.52,3.33,2.85,3.01
+54,18,"Female","White",0,0,1,"Bachelor's degree (4 year degree)","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.66,3.01,3.72,3.54
+55,18,"Female","White",1,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Mechanical Engineering","Computer Science","Computer Science","Computer Science",2.37,3.58,3.1,2.1
+56,20,"Male","Hispanic/Latine",1,0,1,"Bachelor's degree (4 year degree)","Master's degree","Computer Science","Biomedical Engineering","Biology","Biology",3.31,2.17,3.74,2.9
+57,19,"Female","White",1,0,1,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Mechanical Engineering","Computer Science","Computer Science","Computer Science",3.47,2.38,3.21,2.41
+58,19,"Female","White",0,0,1,"Bachelor's degree (4 year degree)","High school diploma","Biology","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.82,3.8,2.63,2.96
+59,18,"Male","White",1,0,1,"Master's degree","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.47,2.35,3.3,3.6
+60,18,"Male","Black/African American",1,0,1,"High school diploma","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.64,2.74,2.01,2.96
+61,18,"Female","White",0,0,1,"High school diploma","High school diploma","Biology","Biology","Chemical Engineering","Chemical Engineering",2.23,3.55,3.03,3.26
+62,18,"Female","White",0,0,1,"Master's degree","Bachelor's degree (4 year degree)","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering","Chemical Engineering",2.36,3.35,3.12,3.28
+63,18,"Male","White",1,0,1,"High school diploma","High school diploma","Biology","Biology","Biology","Biology",3.52,3.35,3.73,2.89
+64,18,"Male","White",0,0,0,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.46,2.39,3.5,2.22
+65,19,"Male","White",1,0,1,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Computer Science","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",2.88,3.89,2.64,2.95
+66,19,"Female","Black/African American",0,0,1,"Bachelor's degree (4 year degree)","High school diploma","Computer Science","Biology","Biology","Biology",2.16,3.33,3.71,2.89
+67,18,"Male","Asian/Pacific Islander",1,0,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.81,2.51,2.95,2.08
+68,19,"Male","White",0,0,1,"Master's degree","Associates degree or equivalent (2 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.46,3.82,2.73,2.44
+69,21,"Female","White",0,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Biology","Biology","Biology","Biology",3.34,3.44,3.28,2.25
+70,18,"Male","Black/African American",0,1,1,"Doctorate or professional degree","Bachelor's degree (4 year degree)","Chemical Engineering","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.52,2.43,3.71,3.57
+71,19,"Male","Asian/Pacific Islander",1,0,1,"Master's degree","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.35,2.86,3.39,3.24
+72,19,"Male","White",0,0,1,"Master's degree","Master's degree","Biology","Computer Science","Computer Science","Computer Science",2.49,2.99,3.25,3.24
+73,18,"Male","White",0,0,0,"High school diploma","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.86,2.57,3.11,3.76
+74,19,"Male","White",1,0,1,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Biomedical Engineering","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.35,3.56,3.62,3.9
+75,18,"Male","White",0,0,1,"Middle school/Junior high","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.21,3.98,3.54,2.65
+76,18,"Male","White",0,1,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.73,2.54,2.99,3.1
+77,18,"Male","White",0,0,1,"Doctorate or professional degree","Associates degree or equivalent (2 year degree)","Computer Science","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.22,2.67,2.83,2.99
+78,18,"Male","Asian/Pacific Islander",0,0,1,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Mechanical Engineering","Computer Science","Mechanical Engineering","Mechanical Engineering",3.11,3.12,3.82,2.5
+79,19,"Female","Multiracial",0,0,1,"High school diploma","Bachelor's degree (4 year degree)","Computer Science","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.85,3.12,3.93,3.94
+80,19,"Male","Hispanic/Latine",0,0,1,"Master's degree","Bachelor's degree (4 year degree)","Biology","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.46,3.65,3.86,3.07
+81,21,"Male","Black/African American",1,0,1,"Bachelor's degree (4 year degree)","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.1,2.92,3.16,2.12
+82,18,"Male","White",0,0,1,"Some high school","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.17,2.48,2.93,2.98
+83,18,"Male","Asian/Pacific Islander",0,0,1,"Some high school","Associates degree or equivalent (2 year degree)","Biology","Biology","Biology","Biology",4,2.1,2.05,2.8
+84,19,"Male","Black/African American",1,0,0,"Master's degree","Master's degree","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.19,3.87,3.81,2.78
+85,18,"Male","White",1,1,1,"High school diploma","Some high school","Computer Science","Biology","Biology","Biology",2.91,3.58,2.91,2.75
+86,18,"Male","White",0,0,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Biology","Computer Science","Computer Science","Computer Science",2.91,3.64,3.14,3.96
+87,18,"Male","White",1,0,1,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Mechanical Engineering","Mechanical Engineering","Computer Science","Computer Science",2.94,2.98,2.59,2.74
+88,18,"Female","White",1,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Computer Science","Mechanical Engineering","Biology","Biology",3.85,3.01,3.87,3
+89,19,"Male","White",1,0,0,"Associates degree or equivalent (2 year degree)","High school diploma","Computer Science","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",2.59,2.09,2.82,2.96
+90,18,"Male","White",0,0,1,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Biology","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.96,2.91,2.58,3.8
+91,18,"Male","Black/African American",0,0,1,"Master's degree","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.17,2.43,2.35,2.01
+92,18,"Female","Other",0,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Biology","Biology","Biology","Biology",3.39,3.39,3.71,2.37
+93,19,"Female","Asian/Pacific Islander",0,0,1,"Doctorate or professional degree","Associates degree or equivalent (2 year degree)","Biology","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.63,2.62,3.5,3.61
+94,19,"Female","Other",0,0,0,"High school diploma","High school diploma","Mechanical Engineering","Mechanical Engineering","Computer Science","Computer Science",2.93,3.16,2.58,2.09
+95,19,"Male","White",0,0,1,"Elementary school","High school diploma","Computer Science","Computer Science","Computer Science","Computer Science",2.93,2.04,3.66,2.53
+96,19,"Male","White",1,0,1,"High school diploma","High school diploma","Computer Science","Chemical Engineering","Chemical Engineering","Chemical Engineering",2.4,3.19,2.48,3.03
+97,20,"Male","White",0,0,1,"Some high school","High school diploma","Computer Science","Computer Science","Computer Science","Computer Science",3.07,3.84,3.12,3.97
+98,18,"Female","Black/African American",1,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",2.75,2.96,3.36,2.73
+99,19,"Female","White",0,0,0,"Associates degree or equivalent (2 year degree)","High school diploma","Chemical Engineering","Computer Science","Computer Science","Computer Science",2.25,2.71,3.19,2.33
+100,18,"Male","White",0,0,1,"Master's degree","High school diploma","Chemical Engineering","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.34,3.02,3.76,2.03
+101,18,"Female","White",0,0,1,"High school diploma","Bachelor's degree (4 year degree)","Biology","Biology","Biology","Biology",2.25,2.33,3.39,2.26
+102,18,"Female","Multiracial",0,0,1,"Bachelor's degree (4 year degree)","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3,3.59,2.51,3.91
+103,19,"Female","White",0,0,0,"High school diploma","Bachelor's degree (4 year degree)","Chemical Engineering","Biology","Biology","Biology",3.77,3.46,2.82,3.98
+104,18,"Female","White",0,0,1,"Doctorate or professional degree","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.64,3.87,3.96,3.59
+105,20,"Male","White",0,0,1,"Doctorate or professional degree","Master's degree","Computer Science","Computer Science","Computer Science","Computer Science",2.65,2.89,2.01,2.19
+106,19,"Nonbinary","Other",0,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.69,3.54,3.56,2.84
+107,19,"Male","Asian/Pacific Islander",0,0,0,"Bachelor's degree (4 year degree)","Master's degree","Biology","Computer Science","Computer Science","Computer Science",2.06,3.47,2.56,3.71
+108,21,"Male","Asian/Pacific Islander",0,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.94,3.49,2.43,3.34
+109,19,"Female","White",1,0,1,"Associates degree or equivalent (2 year degree)","Elementary school","Biology","Biology","Biology","Biology",2.03,2.15,2.22,2.46
+110,18,"Female","Multiracial",0,0,1,"Bachelor's degree (4 year degree)","Doctorate or professional degree","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.54,3.14,3.05,3.62
+111,19,"Male","Asian/Pacific Islander",0,0,1,"Associates degree or equivalent (2 year degree)","Master's degree","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.98,3.98,2.33,3.76
+112,19,"Female","Black/African American",0,1,1,"Associates degree or equivalent (2 year degree)","High school diploma","Mechanical Engineering","Chemical Engineering","Chemical Engineering","Biomedical Engineering",2.43,3.87,2.48,2.88
+113,18,"Female","Asian/Pacific Islander",1,1,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Biology","Computer Science","Mechanical Engineering","Mechanical Engineering",3.87,2.65,3.85,3.63
+114,19,"Male","Asian/Pacific Islander",0,0,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Chemical Engineering","Chemical Engineering","Chemical Engineering","Chemical Engineering",2.21,3.09,3.32,2.79
+115,18,"Male","White",1,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Computer Science","Computer Science","Computer Science","Computer Science",3.98,2.92,3.46,2.44
+116,18,"Female","White",0,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Biology","Biology","Biology","Biology",2.87,2.16,2.39,2.1
+117,22,"Female","Black/African American",0,0,1,"Bachelor's degree (4 year degree)","Some high school","Mechanical Engineering","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.53,3.65,2.82,2.79
+118,21,"Male","Hispanic/Latine",1,0,1,"High school diploma","Some high school","Computer Science","Computer Science","Computer Science","Computer Science",2.23,3.9,2.65,2.15
+119,18,"Male","White",0,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Chemical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.8,2.21,3.76,3.28
+120,19,"Male","White",1,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Biology","Biology","Biology","Biology",2.73,3,3.49,2.49
+121,18,"Female","White",1,0,1,"Associates degree or equivalent (2 year degree)","Master's degree","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.93,3.05,2.51,3.68
+122,18,"Female","White",1,0,0,"High school diploma","Associates degree or equivalent (2 year degree)","Computer Science","Biology","Biology","Biology",3.3,3.54,3.87,3.72
+123,21,"Female","Other",0,0,1,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.13,3.62,3.6,2.54
+124,18,"Female","Asian/Pacific Islander",0,0,1,"Doctorate or professional degree","Associates degree or equivalent (2 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.84,2.57,2.27,2.08
+125,20,"Male","White",0,0,1,"High school diploma","High school diploma","Chemical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.19,3.71,3.16,2.8
+126,18,"Male","White",0,0,1,"Master's degree","High school diploma","Biomedical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.76,3.19,2.75,2.79
+127,18,"Female","Asian/Pacific Islander",0,1,1,"High school diploma","High school diploma","Computer Science","Computer Science","Computer Science","Computer Science",3.63,3.98,2.93,2.99
+128,21,"Female","Multiracial",0,1,1,"High school diploma","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Chemical Engineering",2,2.15,3.94,3.52
+129,18,"Male","Other",0,1,1,"Master's degree","High school diploma","Biology","Biology","Biology","Biology",2.39,2.04,2.76,3.06
+130,18,"Female","White",1,0,1,"Bachelor's degree (4 year degree)","Master's degree","Computer Science","Computer Science","Computer Science","Computer Science",3.78,2.79,3.14,2.22
+131,21,"Female","Black/African American",0,0,1,"Master's degree","Master's degree","Biology","Biology","Biology","Biology",2.68,3.31,3.43,3.83
+132,19,"Male","White",0,0,1,"Some high school","High school diploma","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",2.9,3.73,3.44,2.92
+133,22,"Female","White",0,0,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Biology","Biology","Biology","Biology",2.5,3.38,3.79,2.78
+134,19,"Nonbinary","Asian/Pacific Islander",0,1,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Biology","Biology","Biology","Biology",2.44,3.45,3.7,3.94
+135,18,"Female","White",0,0,1,"Some high school","Elementary school","Computer Science","Computer Science","Computer Science","Computer Science",3.02,3.15,2.41,2.33
+136,20,"Male","White",1,1,1,"Doctorate or professional degree","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.05,2.33,3.12,2.9
+137,19,"Male","Asian/Pacific Islander",0,0,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.53,2.86,2.15,2.57
+138,20,"Male","Multiracial",0,0,1,"Bachelor's degree (4 year degree)","Master's degree","Computer Science","Computer Science","Computer Science","Computer Science",3.8,3.5,3.58,3.13
+139,19,"Female","White",0,0,1,"High school diploma","Master's degree","Biomedical Engineering","Biomedical Engineering","Biology","Biology",3.39,2.23,2.7,2.26
+140,21,"Male","Hispanic/Latine",0,0,1,"Master's degree","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.79,3.51,3.79,3.86
+141,21,"Female","White",0,0,1,"High school diploma","High school diploma","Computer Science","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.16,3.39,2.46,2.44
+142,18,"Male","White",1,0,1,"Associates degree or equivalent (2 year degree)","Some high school","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.02,3.94,3.46,2.48
+143,19,"Male","Hispanic/Latine",1,0,1,"Associates degree or equivalent (2 year degree)","Some high school","Computer Science","Computer Science","Mechanical Engineering","Mechanical Engineering",3.1,2.8,2.77,2.91
+144,18,"Female","White",0,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Computer Science","Biology","Chemical Engineering","Chemical Engineering",3.63,3.48,4,3.95
+145,20,"Male","White",0,0,0,"Bachelor's degree (4 year degree)","High school diploma","Computer Science","Chemical Engineering","Chemical Engineering","Chemical Engineering",2.78,2.48,3.05,3.98
+146,19,"Male","White",0,0,1,"Master's degree","Bachelor's degree (4 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.53,2.79,2.66,3.18
+147,22,"Female","Black/African American",1,0,1,"Master's degree","Master's degree","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.48,2.77,3.95,3.51
+148,18,"Male","White",0,0,1,"Bachelor's degree (4 year degree)","High school diploma","Biology","Biology","Biology","Biology",2.58,3.57,3.8,2.22
+149,18,"Male","Multiracial",0,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.31,2.1,2.68,3.98
+150,18,"Male","White",0,0,1,"High school diploma","Bachelor's degree (4 year degree)","Computer Science","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.82,2.09,3.65,3.17
+151,22,"Male","Other",0,0,1,"High school diploma","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.6,2.71,2.54,2.69
+152,18,"Female","Other",1,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Biomedical Engineering","Chemical Engineering","Chemical Engineering","Biology",2.16,2.53,3.48,3
+153,20,"Male","Asian/Pacific Islander",0,1,1,"Associates degree or equivalent (2 year degree)","High school diploma","Computer Science","Computer Science","Computer Science","Computer Science",3.58,3.13,3.42,2.95
+154,18,"Female","White",0,0,1,"Master's degree","Associates degree or equivalent (2 year degree)","Chemical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.8,2.18,3.56,2.72
+155,22,"Male","Other",0,0,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.18,3.88,3.81,2.92
+156,18,"Female","White",0,0,1,"Master's degree","High school diploma","Computer Science","Computer Science","Computer Science","Computer Science",3.36,2.35,3.21,2.44
+157,18,"Female","Asian/Pacific Islander",0,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Biology","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.47,2.41,2.78,2.69
+158,18,"Female","White",0,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Computer Science","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.74,2.63,2.26,2.72
+159,18,"Female","White",1,0,1,"High school diploma","High school diploma","Computer Science","Computer Science","Biomedical Engineering","Biomedical Engineering",3.45,2.89,3.87,2.03
+160,18,"Male","White",1,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.86,3.82,2.36,2.25
+161,20,"Female","White",1,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Mechanical Engineering","Chemical Engineering","Biomedical Engineering","Biomedical Engineering",3.87,2.65,3.17,2.63
+162,19,"Female","White",0,0,1,"Master's degree","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.38,3.38,2.27,2.4
+163,21,"Male","Asian/Pacific Islander",0,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Biomedical Engineering","Computer Science","Computer Science","Computer Science",3.21,3.02,3.95,2.45
+164,18,"Male","White",0,1,1,"High school diploma","High school diploma","Chemical Engineering","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.61,2.5,2.44,3.16
+165,22,"Female","Asian/Pacific Islander",0,0,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Biomedical Engineering","Computer Science","Computer Science","Computer Science",2.31,3.69,3.79,2.44
+166,19,"Male","White",0,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Biology","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",2.73,2.39,2.76,2.87
+167,18,"Female","White",0,0,1,"Associates degree or equivalent (2 year degree)","Master's degree","Computer Science","Biomedical Engineering","Biology","Biology",2.6,2.66,2.39,3
+168,20,"Female","Black/African American",0,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.7,2.85,3.85,3.67
+169,19,"Male","Asian/Pacific Islander",0,0,1,"High school diploma","High school diploma","Computer Science","Computer Science","Computer Science","Computer Science",3.1,3.59,3.68,3.06
+170,18,"Female","White",0,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Biology","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.89,2.34,3.05,3.23
+171,19,"Female","White",1,0,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Biology","Biology",3.57,2.08,2.37,3.93
+172,18,"Male","Multiracial",1,0,1,"Master's degree","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.52,3.71,2.06,3.69
+173,18,"Female","White",0,0,1,"High school diploma","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.11,3.06,3.01,3.53
+174,19,"Female","Hispanic/Latine",0,0,1,"Doctorate or professional degree","Elementary school","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.23,2.35,2.98,2.49
+175,20,"Female","White",0,0,1,"High school diploma","Master's degree","Biology","Biology","Biology","Biology",2.55,2.07,2.65,2.16
+176,20,"Male","White",1,0,1,"Middle school/Junior high","High school diploma","Computer Science","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.46,3.99,2.89,2.73
+177,20,"Male","Black/African American",1,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.03,2.48,3.9,2.51
+178,19,"Male","White",0,0,1,"Master's degree","Bachelor's degree (4 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.59,3.7,2.13,2.6
+179,19,"Male","White",0,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Computer Science","Chemical Engineering","Chemical Engineering","Mechanical Engineering",3.92,2.57,2.25,2
+180,18,"Female","White",0,0,1,"Some high school","Master's degree","Computer Science","Computer Science","Computer Science","Computer Science",3.09,3.24,2.61,2.54
+181,18,"Male","Hispanic/Latine",0,0,1,"Master's degree","High school diploma","Computer Science","Computer Science","Computer Science","Computer Science",3.11,3.06,2.94,3.84
+182,19,"Male","White",0,0,1,"High school diploma","Master's degree","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.61,2.35,2.81,3.19
+183,18,"Female","White",0,0,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.01,3.53,2.21,3.69
+184,19,"Female","Asian/Pacific Islander",0,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.26,2.34,2.76,2.77
+185,18,"Male","Asian/Pacific Islander",1,0,1,"Bachelor's degree (4 year degree)","High school diploma","Biology","Biology","Biology","Biology",3.78,2.4,2.83,3.27
+186,22,"Male","White",1,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Biology","Biology","Chemical Engineering","Chemical Engineering",2.08,3.15,2.87,3.61
+187,20,"Male","Other",0,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Computer Science","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",2.02,3.37,3.52,3.95
+188,18,"Male","Black/African American",0,0,1,"Doctorate or professional degree","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Biomedical Engineering","Biomedical Engineering",2.25,3.72,2.96,2.11
+189,18,"Male","Hispanic/Latine",1,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Chemical Engineering","Biology","Biology","Biology",3.67,2.7,3.54,2.09
+190,18,"Male","White",1,0,1,"Doctorate or professional degree","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.51,3.11,4,3.34
+191,19,"Male","Hispanic/Latine",1,0,1,"Associates degree or equivalent (2 year degree)","Some high school","Biology","Computer Science","Computer Science","Computer Science",2.7,3.66,2.14,2.85
+192,20,"Female","White",1,0,1,"High school diploma","Bachelor's degree (4 year degree)","Mechanical Engineering","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",2.28,3.26,3.21,2.36
+193,18,"Male","White",0,0,1,"Master's degree","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.71,2.54,3.89,2.77
+194,19,"Male","White",1,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Biology","Biomedical Engineering","Mechanical Engineering","Mechanical Engineering",2.38,3.51,2.66,2.81
+195,19,"Male","White",0,0,1,"Bachelor's degree (4 year degree)","Doctorate or professional degree","Computer Science","Computer Science","Computer Science","Computer Science",3.73,3.85,2.51,2
+196,18,"Male","White",0,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.29,2.28,2.11,3.94
+197,18,"Male","White",1,0,1,"Some high school","Associates degree or equivalent (2 year degree)","Biology","Biology","Biology","Biology",3.07,3.03,3.77,2.57
+198,18,"Female","White",0,0,1,"No school","Bachelor's degree (4 year degree)","Biomedical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.98,3.96,3.93,3.28
+199,19,"Male","White",1,0,1,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.11,3.47,3.48,3.91
+200,18,"Female","White",1,0,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Mechanical Engineering","Mechanical Engineering",3.59,2.47,3.13,2.25
+201,19,"Female","Multiracial",1,0,1,"Bachelor's degree (4 year degree)","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.98,2.66,2.99,3.34
+202,18,"Female","Asian/Pacific Islander",1,1,1,"High school diploma","Bachelor's degree (4 year degree)","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.96,2.67,3.86,3.95
+203,18,"Male","White",1,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering","Computer Science",2.64,2.07,3.49,3.13
+204,18,"Female","Asian/Pacific Islander",0,0,1,"High school diploma","Bachelor's degree (4 year degree)","Computer Science","Biology","Biology","Biology",2,3.96,2.14,3.12
+205,19,"Male","White",1,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Biology","Biomedical Engineering","Biology","Biology",2.01,3.6,2.84,2.03
+206,18,"Male","Multiracial",0,0,1,"High school diploma","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.3,3.25,2.22,3.45
+207,18,"Male","White",0,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Computer Science","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.55,3.56,2.56,2.71
+208,19,"Male","Black/African American",0,0,1,"No school","High school diploma","Biology","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.02,3.9,2.15,2.84
+209,19,"Male","White",1,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Computer Science","Biomedical Engineering","Computer Science","Computer Science",2.43,2.07,3.68,3.11
+210,18,"Female","Asian/Pacific Islander",1,1,1,"Bachelor's degree (4 year degree)","High school diploma","Biomedical Engineering","Biology","Biology","Biology",3.69,2.1,3.88,3.68
+211,18,"Male","Multiracial",0,0,1,"Bachelor's degree (4 year degree)","No school","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.02,3.26,3.08,3.82
+212,18,"Male","Asian/Pacific Islander",0,0,1,"Master's degree","Master's degree","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.14,3.5,3.57,2.97
+213,18,"Male","White",0,0,1,"Associates degree or equivalent (2 year degree)","Some high school","Mechanical Engineering","Biology","Biology","Biology",2.38,2,2.1,2.2
+214,19,"Male","White",0,0,1,"High school diploma","Master's degree","Biology","Biology","Biology","Biology",3.15,2.28,3.72,2.9
+215,19,"Female","White",0,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.08,2.27,2.1,2.82
+216,22,"Female","White",0,0,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.22,3.47,3.32,3.13
+217,18,"Male","Multiracial",1,0,1,"Doctorate or professional degree","High school diploma","Computer Science","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.91,2.24,3.73,3.71
+218,19,"Male","Other",1,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Computer Science","Chemical Engineering",3.27,2.95,3.1,2.15
+219,21,"Male","White",0,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Mechanical Engineering","Biology","Biology","Biology",2.82,3.49,2.91,3.86
+220,18,"Male","Asian/Pacific Islander",0,0,1,"Bachelor's degree (4 year degree)","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.19,3.25,3.21,2.59
+221,18,"Male","White",0,1,1,"Master's degree","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.92,2.78,3.5,3.79
+222,20,"Female","Asian/Pacific Islander",0,0,1,"Master's degree","Associates degree or equivalent (2 year degree)","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.73,2.27,2.1,2.07
+223,20,"Male","Black/African American",0,0,1,"High school diploma","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.17,3.28,3.31,2.46
+224,21,"Male","White",1,0,1,"Master's degree","High school diploma","Computer Science","Computer Science","Computer Science","Computer Science",3.28,2.2,2.58,3.58
+225,18,"Female","White",0,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.08,2.95,2.72,2.9
+226,19,"Male","White",0,0,1,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Biomedical Engineering","Biomedical Engineering",2.1,3.15,3.68,2.2
+227,19,"Male","White",1,0,1,"Associates degree or equivalent (2 year degree)","Master's degree","Biology","Biology","Biology","Biology",3.68,3.04,3.59,3.88
+228,18,"Male","White",1,0,1,"High school diploma","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.73,3.03,3.59,3.03
+229,18,"Male","Black/African American",1,0,1,"High school diploma","High school diploma","Biology","Biology","Biology","Biology",3.33,3.54,3.49,3.43
+230,19,"Male","Other",1,0,1,"High school diploma","High school diploma","Computer Science","Computer Science","Computer Science","Computer Science",2.09,2.63,3.41,3.56
+231,18,"Male","White",1,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.8,2.15,2.05,3.89
+232,18,"Female","White",0,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Computer Science","Computer Science","Computer Science","Computer Science",2.95,2.91,2.08,3.16
+233,19,"Female","White",1,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.36,2.42,2.27,2.17
+234,18,"Female","Asian/Pacific Islander",1,0,1,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Mechanical Engineering","Mechanical Engineering",2.57,2.56,3.62,3.72
+235,18,"Male","White",0,0,0,"Master's degree","No school","Biology","Biology","Biology","Biology",2.32,2.34,2.22,3.52
+236,18,"Female","Black/African American",0,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Chemical Engineering","Chemical Engineering","Chemical Engineering","Biology",2.23,2.38,2.23,3.97
+237,18,"Female","White",0,0,1,"Bachelor's degree (4 year degree)","High school diploma","Chemical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.71,3.54,2.76,3.48
+238,18,"Female","White",1,0,1,"Bachelor's degree (4 year degree)","High school diploma","Computer Science","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.58,2.51,3.65,3.27
+239,19,"Male","White",0,0,1,"High school diploma","High school diploma","Biology","Biology","Computer Science","Computer Science",3.64,2.48,2.41,2.21
+240,19,"Male","White",1,0,1,"Master's degree","High school diploma","Computer Science","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.03,3.39,3.93,3.34
+241,18,"Female","White",0,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Chemical Engineering","Chemical Engineering","Computer Science","Computer Science",3.17,3.85,2.87,2.3
+242,18,"Female","White",1,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.35,2.41,3.54,2.64
+243,21,"Female","White",0,0,0,"Master's degree","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.43,2.16,3.06,2.26
+244,21,"Female","Asian/Pacific Islander",0,0,1,"High school diploma","Bachelor's degree (4 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.8,3.39,3.08,3.94
+245,19,"Male","Hispanic/Latine",0,0,1,"Bachelor's degree (4 year degree)","High school diploma","Biology","Biology","Biology","Biology",3.84,3.64,2.24,2.75
+246,19,"Female","White",0,0,1,"High school diploma","Some high school","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.52,3.18,3.58,2.25
+247,20,"Female","White",0,0,0,"Bachelor's degree (4 year degree)","Master's degree","Mechanical Engineering","Mechanical Engineering","Chemical Engineering","Chemical Engineering",2.45,2.45,3.15,3.83
+248,18,"Male","Asian/Pacific Islander",0,0,1,"Master's degree","High school diploma","Computer Science","Computer Science","Computer Science","Computer Science",2.31,2.36,3,3.04
+249,18,"Female","Asian/Pacific Islander",0,0,1,"No school","Associates degree or equivalent (2 year degree)","Mechanical Engineering","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.54,2.62,2.78,3.36
+250,22,"Male","White",0,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.39,2.74,2.77,3.18
+251,19,"Female","White",0,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Mechanical Engineering","Biology","Mechanical Engineering","Computer Science",2.74,2.76,3.5,3.41
+252,19,"Male","Asian/Pacific Islander",0,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.1,2.27,3.96,3.41
+253,18,"Female","White",0,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Computer Science","Computer Science","Computer Science","Computer Science",2.19,3.57,3.32,3.12
+254,19,"Male","Black/African American",0,0,1,"Master's degree","Bachelor's degree (4 year degree)","Computer Science","Biology","Biology","Biology",3.28,3.06,2.52,2.65
+255,19,"Male","Hispanic/Latine",1,0,1,"Master's degree","Master's degree","Computer Science","Computer Science","Computer Science","Computer Science",2.4,3.27,3.6,2.05
+256,19,"Male","White",0,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Biology","Biology","Biology","Biology",2.24,3.93,2.69,3.68
+257,19,"Female","Asian/Pacific Islander",0,0,1,"Bachelor's degree (4 year degree)","Master's degree","Chemical Engineering","Biology","Biology","Biology",2.73,2.63,3.77,3.85
+258,18,"Female","White",0,0,1,"Bachelor's degree (4 year degree)","High school diploma","Computer Science","Computer Science","Computer Science","Computer Science",3.57,2.19,2.44,3.78
+259,20,"Female","Other",0,0,1,"High school diploma","Bachelor's degree (4 year degree)","Biomedical Engineering","Computer Science","Computer Science","Computer Science",2.64,3.11,3.74,3.03
+260,18,"Male","Hispanic/Latine",1,0,1,"Master's degree","Associates degree or equivalent (2 year degree)","Biomedical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.56,2.06,2.03,3.36
+261,19,"Male","Hispanic/Latine",0,0,1,"Master's degree","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.2,3.49,3.13,3.99
+262,19,"Male","Black/African American",0,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Biology","Computer Science","Computer Science","Computer Science",2.78,2.1,2.35,3.35
+263,19,"Male","White",1,0,1,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Chemical Engineering","Computer Science","Biology","Computer Science",3.49,3.52,2.5,2.08
+264,18,"Male","Hispanic/Latine",0,0,1,"High school diploma","High school diploma","Biology","Biology","Biology","Biology",2.08,2.55,3.68,2.99
+265,18,"Male","Hispanic/Latine",1,0,1,"Master's degree","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.06,3.88,2.99,2.47
+266,21,"Female","Black/African American",1,0,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Biology","Biology","Biomedical Engineering","Biomedical Engineering",2.66,3.18,3.98,2.41
+267,18,"Female","White",1,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.36,2.9,2.31,3.44
+268,18,"Male","Asian/Pacific Islander",0,0,1,"High school diploma","Bachelor's degree (4 year degree)","Biology","Biology","Computer Science","Computer Science",3.54,2.04,3.29,3.5
+269,18,"Male","Asian/Pacific Islander",0,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.58,3.91,2.92,2.41
+270,18,"Male","Black/African American",0,0,1,"High school diploma","High school diploma","Computer Science","Computer Science","Computer Science","Computer Science",2.59,3.15,3.95,2.21
+271,19,"Male","White",0,0,1,"High school diploma","Doctorate or professional degree","Computer Science","Computer Science","Computer Science","Computer Science",3.36,3.03,3,3.42
+272,18,"Female","White",0,0,1,"High school diploma","Some high school","Computer Science","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.65,2.1,2.14,2.57
+273,18,"Male","Black/African American",0,0,1,"Doctorate or professional degree","Elementary school","Biomedical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.89,3.93,2.18,3.59
+274,18,"Male","Asian/Pacific Islander",0,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.98,3.32,3.35,3.03
+275,19,"Male","White",1,0,1,"Middle school/Junior high","Elementary school","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.05,3.15,3.03,3.02
+276,18,"Male","Hispanic/Latine",0,0,1,"High school diploma","Bachelor's degree (4 year degree)","Chemical Engineering","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.22,2.8,2.94,2
+277,19,"Male","White",1,0,1,"Bachelor's degree (4 year degree)","Some high school","Mechanical Engineering","Mechanical Engineering","Biomedical Engineering","Biomedical Engineering",2.06,2.36,3.7,2.11
+278,18,"Male","White",0,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.89,2.07,3.07,3.12
+279,18,"Female","White",0,0,1,"Some high school","Some high school","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.49,3.86,2.06,3.87
+280,20,"Male","White",0,0,1,"Middle school/Junior high","Bachelor's degree (4 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.78,3.74,2.1,3.38
+281,20,"Male","Asian/Pacific Islander",1,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.73,2.1,3.85,2.38
+282,21,"Male","White",1,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Mechanical Engineering","Mechanical Engineering","Chemical Engineering","Chemical Engineering",3.26,2.65,2.1,3.2
+283,19,"Female","White",0,0,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Biology","Biology","Biology","Biology",3.34,2.4,3.54,3.19
+284,18,"Female","White",0,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.69,2.18,3.46,3.53
+285,18,"Male","White",0,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.52,2.7,3.28,3.36
+286,19,"Male","Native American",0,0,1,"High school diploma","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.93,2.49,3.76,2.48
+287,18,"Female","Asian/Pacific Islander",0,0,1,"Master's degree","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.98,3.43,2.71,2.77
+288,18,"Male","White",0,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.58,2.79,2.9,2.92
+289,18,"Male","White",0,0,1,"Master's degree","Associates degree or equivalent (2 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.66,2.3,2.39,3.58
+290,19,"Female","White",0,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Mechanical Engineering","Biology","Biology","Biology",2.48,2.3,2.6,2.42
+291,21,"Female","Multiracial",0,0,1,"Master's degree","Bachelor's degree (4 year degree)","Chemical Engineering","Chemical Engineering","Chemical Engineering","Computer Science",3.99,2.49,2.02,2.35
+292,18,"Female","Asian/Pacific Islander",0,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.55,2.69,2.98,3.69
+293,18,"Female","White",0,0,0,"Some high school","High school diploma","Biology","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",2.6,3.68,3.87,3.48
+294,18,"Male","Asian/Pacific Islander",0,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Mechanical Engineering","Mechanical Engineering","Biology","Mechanical Engineering",2.23,2.3,2.82,3.82
+295,18,"Female","White",0,0,1,"High school diploma","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.54,2.52,2.73,2.26
+296,18,"Female","White",1,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.86,2.61,3.63,3.14
+297,19,"Male","White",0,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Mechanical Engineering","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.8,3.04,3.32,3.53
+298,20,"Male","Black/African American",0,0,1,"High school diploma","High school diploma","Biomedical Engineering","Computer Science","Computer Science","Computer Science",3.91,3.6,3.39,3.03
+299,22,"Female","White",0,0,1,"Associates degree or equivalent (2 year degree)","Master's degree","Computer Science","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.47,2.04,2.53,3.98
+300,19,"Male","White",0,0,0,"High school diploma","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.46,3.97,2.74,3.79
+301,19,"Male","Native American",0,0,1,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Computer Science","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.32,2.93,3.81,2.14
+302,18,"Male","White",0,0,1,"High school diploma","No school","Chemical Engineering","Chemical Engineering","Chemical Engineering","Chemical Engineering",2.01,3.84,2.5,3.91
+303,19,"Male","Other",0,0,1,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Chemical Engineering","Computer Science","Computer Science","Computer Science",3.92,3.15,2.38,2.12
+304,18,"Male","White",0,0,1,"Doctorate or professional degree","High school diploma","Chemical Engineering","Chemical Engineering","Chemical Engineering","Chemical Engineering",2.27,3.41,3.06,2.78
+305,19,"Male","White",1,0,1,"High school diploma","Doctorate or professional degree","Mechanical Engineering","Mechanical Engineering","Computer Science","Computer Science",2.05,3.42,2.81,4
+306,20,"Female","Asian/Pacific Islander",0,0,1,"High school diploma","Bachelor's degree (4 year degree)","Mechanical Engineering","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.39,2.14,3.15,2.98
+307,18,"Male","Asian/Pacific Islander",1,0,0,"Master's degree","High school diploma","Biology","Computer Science","Computer Science","Computer Science",3.69,3.29,2.05,3.78
+308,20,"Male","White",1,0,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.57,2.08,2.07,3.08
+309,18,"Female","White",1,0,1,"Master's degree","High school diploma","Computer Science","Computer Science","Computer Science","Computer Science",3.14,2.66,3.68,3.53
+310,20,"Female","White",0,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Computer Science","Mechanical Engineering","Computer Science","Computer Science",2.38,4,3.95,3.44
+311,19,"Male","Black/African American",0,0,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Chemical Engineering","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.1,2.17,2.34,3.58
+312,19,"Female","White",0,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.68,2.11,3.84,2.18
+313,18,"Male","White",0,0,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Computer Science","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.91,3.45,3.46,3.01
+314,18,"Male","White",0,0,1,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.35,3.89,3.72,3.93
+315,19,"Female","White",1,0,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.27,3.94,3.39,2.64
+316,18,"Female","White",0,0,1,"High school diploma","High school diploma","Biology","Biology","Biology","Biology",3.09,3.62,3.13,2.99
+317,19,"Female","White",0,0,1,"Master's degree","Bachelor's degree (4 year degree)","Biology","Biology","Biology","Biology",3.78,3.56,3.83,2.66
+318,19,"Male","White",0,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Biomedical Engineering",2.69,3.91,2.44,2.17
+319,18,"Male","Black/African American",1,0,1,"Master's degree","High school diploma","Chemical Engineering","Chemical Engineering","Chemical Engineering","Chemical Engineering",2.03,3.17,3.42,3.74
+320,19,"Female","Other",1,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Biology","Biology","Biology","Biology",2.37,3.99,2.85,3.57
+321,18,"Male","Asian/Pacific Islander",0,0,1,"No school","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.97,2.39,2.41,2.69
+322,19,"Female","White",0,0,1,"High school diploma","Doctorate or professional degree","Biomedical Engineering","Biomedical Engineering","Mechanical Engineering","Mechanical Engineering",2.54,2.59,3.53,3.93
+323,20,"Male","White",1,0,1,"High school diploma","Elementary school","Biology","Biology","Mechanical Engineering","Mechanical Engineering",3.48,3.62,2.41,2.78
+324,19,"Male","Asian/Pacific Islander",0,0,1,"High school diploma","Master's degree","Computer Science","Computer Science","Computer Science","Computer Science",3.57,2.29,3.78,3.68
+325,19,"Male","White",1,0,1,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Biology","Biology","Biology","Biology",3.93,3.39,3.45,2.42
+326,19,"Male","White",0,0,1,"Some high school","Master's degree","Chemical Engineering","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.34,2.31,2.35,3.59
+327,19,"Male","White",1,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Computer Science","Chemical Engineering","Chemical Engineering","Chemical Engineering",2.2,3.76,2.68,2.5
+328,22,"Female","Black/African American",0,0,1,"Elementary school","Bachelor's degree (4 year degree)","Biomedical Engineering","Computer Science","Computer Science","Computer Science",2.94,3.68,2.64,3.19
+329,18,"Male","White",0,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.34,2.5,3.75,2.39
+330,20,"Male","White",0,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Biology","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.57,2.78,2.55,3.91
+331,18,"Male","Multiracial",1,0,1,"Associates degree or equivalent (2 year degree)","Master's degree","Mechanical Engineering","Chemical Engineering","Chemical Engineering","Chemical Engineering",2.5,3.53,3,3.85
+332,18,"Male","White",0,0,1,"Doctorate or professional degree","High school diploma","Computer Science","Computer Science","Computer Science","Computer Science",2.45,3.23,2.66,2.79
+333,20,"Male","White",0,0,1,"Bachelor's degree (4 year degree)","High school diploma","Biomedical Engineering","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.21,2.35,2.25,2.5
+334,18,"Male","White",0,0,1,"High school diploma","Master's degree","Computer Science","Computer Science","Biomedical Engineering","Biomedical Engineering",3.68,2.38,3.18,3.85
+335,20,"Nonbinary","White",1,0,1,"Master's degree","High school diploma","Biology","Biology","Biology","Biology",2,3.63,3.14,3.81
+336,18,"Male","Asian/Pacific Islander",1,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Mechanical Engineering","Mechanical Engineering","Chemical Engineering","Chemical Engineering",2.41,3.49,2.27,2.7
+337,20,"Male","White",0,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Biomedical Engineering","Biomedical Engineering",2.58,3.71,2.69,2.9
+338,18,"Female","Multiracial",1,0,1,"Master's degree","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Chemical Engineering","Chemical Engineering",2.3,2.37,2.28,2.57
+339,19,"Female","Black/African American",0,0,1,"High school diploma","High school diploma","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",2.57,3.04,3.37,3.85
+340,20,"Male","Other",0,0,1,"Master's degree","High school diploma","Biology","Chemical Engineering","Biology","Biology",3,3.87,2.57,2.74
+341,19,"Male","Black/African American",0,0,1,"Some high school","Master's degree","Chemical Engineering","Biology","Biology","Biology",2.47,2.1,2.87,3.45
+342,18,"Male","White",0,0,1,"Some high school","Bachelor's degree (4 year degree)","Computer Science","Chemical Engineering","Chemical Engineering","Computer Science",2.21,2.71,3.61,3.73
+343,18,"Female","Asian/Pacific Islander",0,0,1,"High school diploma","High school diploma","Biology","Biology","Biology","Biology",2.09,2.04,2.57,3.2
+344,18,"Female","Asian/Pacific Islander",1,0,1,"Some high school","High school diploma","Mechanical Engineering","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.56,3.64,2.89,2.04
+345,18,"Female","Multiracial",0,0,1,"High school diploma","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.45,3.28,3.44,3.24
+346,18,"Male","White",0,1,1,"Bachelor's degree (4 year degree)","Doctorate or professional degree","Computer Science","Computer Science","Computer Science","Computer Science",2.27,2.01,3.78,2.65
+347,19,"Female","White",0,0,1,"Doctorate or professional degree","Middle school/Junior high","Biomedical Engineering","Biomedical Engineering","Biology","Biology",2.75,2.93,2.85,2.56
+348,18,"Male","White",0,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Biomedical Engineering","Biology","Biology","Biology",3.27,2.19,3.31,2.49
+349,19,"Female","Black/African American",0,0,1,"Bachelor's degree (4 year degree)","Some high school","Mechanical Engineering","Mechanical Engineering","Biomedical Engineering","Biomedical Engineering",2.18,3.39,3.1,3.09
+350,22,"Female","White",1,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Biology","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.47,3.81,3.73,2.83
+351,19,"Male","Multiracial",0,0,1,"Middle school/Junior high","High school diploma","Chemical Engineering","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.49,3.43,3.37,3.02
+352,18,"Male","Black/African American",1,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Computer Science","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.84,2.09,3.13,3.78
+353,18,"Male","Black/African American",0,0,1,"Associates degree or equivalent (2 year degree)","Master's degree","Biomedical Engineering","Biology","Biology","Biology",2.31,3.11,3.27,3.74
+354,18,"Male","White",0,0,1,"High school diploma","Some high school","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.7,2.05,2.05,2.74
+355,20,"Female","White",0,0,1,"Master's degree","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Computer Science",3.56,2.56,2.79,3.95
+356,19,"Female","White",0,0,1,"Doctorate or professional degree","Middle school/Junior high","Computer Science","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.38,2.86,2.08,2.44
+357,20,"Male","Hispanic/Latine",0,0,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Biology","Biology","Chemical Engineering","Chemical Engineering",2.36,2.74,2.34,3.38
+358,19,"Female","Multiracial",0,0,1,"High school diploma","High school diploma","Mechanical Engineering","Biology","Biology","Biology",3.32,3.84,3.42,2.46
+359,20,"Male","Other",0,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Biomedical Engineering","Biomedical Engineering","Mechanical Engineering","Mechanical Engineering",3.02,3.36,3.88,2.51
+360,19,"Male","White",0,0,1,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.1,2.26,3.33,2.1
+361,19,"Female","White",0,0,1,"Associates degree or equivalent (2 year degree)","Some high school","Computer Science","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.37,2.61,3.48,2.79
+362,19,"Male","White",0,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Chemical Engineering","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.83,3.27,3.93,2.21
+363,18,"Female","White",0,0,1,"High school diploma","Master's degree","Computer Science","Computer Science","Computer Science","Computer Science",3.01,2.9,3.22,2.03
+364,18,"Male","White",0,0,1,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Biology","Biology","Biomedical Engineering","Biomedical Engineering",2.43,2.99,3.97,2.38
+365,19,"Female","White",0,0,1,"Bachelor's degree (4 year degree)","High school diploma","Mechanical Engineering","Biology","Biology","Biology",2.13,2.7,3.79,2.85
+366,18,"Female","Black/African American",0,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",2.96,2.89,3.87,3.36
+367,22,"Male","Asian/Pacific Islander",0,0,1,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Chemical Engineering","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",2.49,3.87,2.56,3.69
+368,18,"Male","White",0,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Chemical Engineering","Biomedical Engineering","Mechanical Engineering","Mechanical Engineering",3.63,2.14,2.05,2.97
+369,21,"Male","Multiracial",0,0,1,"High school diploma","Some high school","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.59,2.54,2.25,2.83
+370,18,"Male","White",0,0,1,"Bachelor's degree (4 year degree)","High school diploma","Computer Science","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.24,2.34,3.68,3.93
+371,18,"Male","Multiracial",1,0,1,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.06,3.7,2.57,2.65
+372,18,"Female","Black/African American",0,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.02,3.7,3.53,2.72
+373,19,"Male","White",0,0,1,"Bachelor's degree (4 year degree)","Some high school","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.35,3.03,3.81,3.45
+374,20,"Male","Black/African American",1,0,1,"Master's degree","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.77,2.48,2.84,2.23
+375,18,"Male","White",0,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Biology","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.95,2.99,3.4,3.61
+376,18,"Male","White",0,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Chemical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.37,3.26,2.05,2.9
+377,22,"Female","Asian/Pacific Islander",0,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Biology","Biology","Biology","Biology",2.26,2.91,3.66,2.85
+378,18,"Male","Asian/Pacific Islander",1,0,1,"High school diploma","Master's degree","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.51,3.49,2.85,3.42
+379,18,"Female","White",0,0,0,"Bachelor's degree (4 year degree)","Master's degree","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.18,3.43,3.25,2.94
+380,18,"Male","Black/African American",0,0,1,"Associates degree or equivalent (2 year degree)","No school","Chemical Engineering","Chemical Engineering","Chemical Engineering","Chemical Engineering",2.34,2.39,3.92,3.35
+381,19,"Male","White",0,1,1,"Associates degree or equivalent (2 year degree)","High school diploma","Biology","Biology","Biology","Biology",3.66,3.3,2.27,3.67
+382,21,"Female","White",0,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Chemical Engineering","Chemical Engineering","Chemical Engineering","Chemical Engineering",2.44,2.2,3.9,2.75
+383,19,"Male","White",0,0,1,"Associates degree or equivalent (2 year degree)","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.86,2.13,2.2,3.81
+384,18,"Male","White",0,0,1,"Doctorate or professional degree","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.44,3.21,3.4,2.99
+385,18,"Male","White",1,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Chemical Engineering","Chemical Engineering","Biomedical Engineering","Biomedical Engineering",3.33,3.89,2.18,3.36
+386,18,"Male","White",0,1,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.4,3.82,3.71,3.97
+387,18,"Female","Black/African American",1,0,1,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Biology","Biology","Biology","Biology",3.37,3.7,3.69,3.02
+388,18,"Male","White",0,0,1,"Associates degree or equivalent (2 year degree)","Some high school","Mechanical Engineering","Computer Science","Computer Science","Biomedical Engineering",3.95,3.8,3.64,2.31
+389,19,"Male","Other",0,0,1,"Bachelor's degree (4 year degree)","High school diploma","Computer Science","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.76,3.87,3.36,2.65
+390,18,"Nonbinary","Black/African American",1,1,1,"High school diploma","Bachelor's degree (4 year degree)","Chemical Engineering","Biology","Chemical Engineering","Chemical Engineering",3.51,2.45,3.42,3.97
+391,19,"Male","Asian/Pacific Islander",0,0,1,"High school diploma","Bachelor's degree (4 year degree)","Biology","Biology","Chemical Engineering","Chemical Engineering",3.1,3.9,3.48,2.67
+392,19,"Male","White",0,0,1,"Master's degree","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.41,3.75,2.98,2.71
+393,19,"Male","White",1,0,1,"High school diploma","Master's degree","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.97,2.94,2.58,3.3
+394,19,"Male","White",0,0,1,"Master's degree","Bachelor's degree (4 year degree)","Mechanical Engineering","Biology","Chemical Engineering","Biomedical Engineering",2.93,3.5,3.51,3.27
+395,22,"Male","Black/African American",0,0,1,"High school diploma","Doctorate or professional degree","Mechanical Engineering","Mechanical Engineering","Biology","Biology",2.49,2.13,3.72,2.79
+396,18,"Female","White",1,0,1,"Bachelor's degree (4 year degree)","Some high school","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.18,3.36,2.66,2.86
+397,19,"Male","Other",1,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Biology","Biology","Biology","Biology",2.46,2.69,3.95,2.84
+398,18,"Male","Asian/Pacific Islander",0,0,1,"High school diploma","Bachelor's degree (4 year degree)","Chemical Engineering","Biology","Biology","Biology",2.86,2.75,2.05,3.7
+399,18,"Male","White",0,0,1,"Master's degree","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.77,3.21,2.43,3.8
+400,18,"Nonbinary","White",0,0,0,"Master's degree","High school diploma","Biology","Mechanical Engineering","Biology","Biology",2.09,2.39,3.72,2.16
+401,18,"Male","White",1,0,1,"Bachelor's degree (4 year degree)","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.84,2.15,3.81,2.33
+402,19,"Male","White",0,1,0,"Associates degree or equivalent (2 year degree)","Associates degree or equivalent (2 year degree)","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.86,2.41,3.25,3.44
+403,18,"Female","White",1,0,1,"Master's degree","High school diploma","Chemical Engineering","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.55,3.76,3.97,2.02
+404,20,"Male","White",0,0,1,"High school diploma","Some high school","Computer Science","Computer Science","Computer Science","Computer Science",3.96,2.79,2.36,2.45
+405,19,"Male","White",0,0,1,"High school diploma","High school diploma","Computer Science","Computer Science","Computer Science","Computer Science",2.98,3.84,3.45,2.29
+406,18,"Female","Hispanic/Latine",0,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Computer Science","Biomedical Engineering","Computer Science","Computer Science",2.1,3.49,3,2.55
+407,21,"Nonbinary","White",1,0,1,"High school diploma","High school diploma","Computer Science","Computer Science","Computer Science","Computer Science",2.52,3.04,2.36,2.32
+408,18,"Female","White",1,0,1,"High school diploma","High school diploma","Chemical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.55,2.97,2.26,2.06
+409,18,"Female","Black/African American",0,0,1,"Doctorate or professional degree","High school diploma","Biology","Chemical Engineering","Biology","Biology",2.32,2.06,3.16,2.5
+410,20,"Male","White",0,0,1,"No school","No school","Biology","Biology","Biology","Biology",2.63,2.62,2.65,3.17
+411,18,"Female","Multiracial",0,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",2.05,3.82,2.66,3.17
+412,18,"Female","White",1,0,1,"Associates degree or equivalent (2 year degree)","Master's degree","Computer Science","Computer Science","Computer Science","Computer Science",3.48,2.4,3.48,3.4
+413,18,"Female","Black/African American",0,0,1,"High school diploma","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.49,2.11,2.49,2.72
+414,19,"Nonbinary","Asian/Pacific Islander",0,0,1,"Doctorate or professional degree","High school diploma","Computer Science","Computer Science","Computer Science","Biomedical Engineering",3.29,2.88,2.37,2.16
+415,18,"Female","White",0,1,1,"Some high school","Associates degree or equivalent (2 year degree)","Biomedical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",3.57,3.42,2.85,3.56
+416,20,"Female","Asian/Pacific Islander",0,1,1,"Master's degree","Bachelor's degree (4 year degree)","Mechanical Engineering","Mechanical Engineering","Computer Science","Computer Science",3.05,2.11,2.01,2.69
+417,18,"Male","White",0,0,1,"Master's degree","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",3.57,3.95,2.91,2.73
+418,19,"Male","Black/African American",0,0,1,"Bachelor's degree (4 year degree)","Master's degree","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering","Biomedical Engineering",3.08,2.73,2.38,2.14
+419,19,"Male","White",0,0,1,"Master's degree","Associates degree or equivalent (2 year degree)","Biomedical Engineering","Chemical Engineering","Computer Science","Computer Science",2.69,3.56,2.64,2.73
+420,18,"Female","White",1,1,1,"Associates degree or equivalent (2 year degree)","High school diploma","Mechanical Engineering","Chemical Engineering","Chemical Engineering","Chemical Engineering",3.55,3.32,3.16,2.85
+421,21,"Male","Other",0,1,1,"Doctorate or professional degree","Master's degree","Computer Science","Computer Science","Computer Science","Computer Science",2.07,2.68,2.21,3.44
+422,18,"Male","Black/African American",0,0,1,"High school diploma","High school diploma","Computer Science","Computer Science","Computer Science","Computer Science",2.97,3.8,2.73,2.03
+423,18,"Male","Asian/Pacific Islander",1,0,1,"Master's degree","Bachelor's degree (4 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.54,3.51,2.13,2.97
+424,20,"Female","White",1,0,0,"Bachelor's degree (4 year degree)","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.45,2.19,2.53,3.17
+425,18,"Male","White",0,0,1,"Associates degree or equivalent (2 year degree)","High school diploma","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering","Mechanical Engineering",2.23,3.96,2.7,2.35
+426,18,"Male","White",1,0,1,"High school diploma","Associates degree or equivalent (2 year degree)","Computer Science","Computer Science","Computer Science","Computer Science",2.08,2.14,2.33,2.49
