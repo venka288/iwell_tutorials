@@ -1,0 +1,60 @@
+---
+title: "Boxplot Tutorial"
+author: "Varsha Venkatesh"
+date: "2026-07-14"
+output: html_document
+---
+## Getting started
+
+To create a boxplot in R, you will need a few packages and a dataset with both a categorical and continuous variable.
+
+Let's say we want to make a boxplot comparing term GPAs by student major during the first semester of college.
+
+```{r setup, include = TRUE}
+# for data manipulation
+library(tidyr)
+
+# for boxplot
+library(ggplot2)
+library(jtools) # to put diagrams in apa format
+```
+
+```{r data, include = TRUE}
+# set working directory to iwell_tutorials/Tutorials
+dat <- read.csv("../Data/iwell_simulated_data_2026-07-14.csv")
+```
+
+## Data manipulation
+
+Our dataset "dat" contains missing data, meaning ggplot2 will automatically make a boxplot for anyone whose major is labeled as NA. We don't want this, so we will remove anyone whose major in semester 1 is NA.
+
+```{r data manipulation, include = TRUE}
+# making a new dataset and removing NAs
+boxplotdat <- dat %>% 
+  filter(!is.na(major_sem_1)) # only keeps participants who do not have NAs in the "major_sem_1" column
+```
+
+## Making diagram
+
+Now that we've loaded in our packages and dataset, we can make our boxplot!
+
+```{r data manipulation, include = TRUE}
+boxplot <- ggplot(boxplotdat, aes(major_sem_1, gpa_sem_1, fill = major_sem_1)) +
+  geom_boxplot() + 
+  theme_apa() +
+  theme(legend.position = "bottom") +
+  ggtitle("First Semester GPA by College Major") +
+  xlab("Major") +
+  ylab("Term GPA") +
+  scale_fill_manual(values = c("#f94144", "#f9c74f", "#f8961e", "#577590", "#90be6d"))
+
+# exporting plot
+ggsave(
+  filename = file.path("../Figures", "boxplot_example.png"), 
+  plot = boxplot,
+  width = 11,
+  height = 8.5,
+  units = "in",    
+  dpi = 300
+)
+```

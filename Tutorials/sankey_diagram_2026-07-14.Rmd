@@ -73,7 +73,7 @@ Now that our data is reshaped and only contains the values we are interested in,
 
 ```{r sankey diagram, include = TRUE}
 # using ggplot2 to make diagram
-ggplot(sankeylong,
+sankey <- ggplot(sankeylong,
        aes(x = semester, stratum = major, alluvium = id, fill = major, label = major)) +
   geom_flow(stat = "alluvium", lode.guidance = "frontback") +
   geom_stratum() +
@@ -88,4 +88,14 @@ ggplot(sankeylong,
   xlab("Semester") +
   ylab("# of Students") +
   scale_fill_manual(values = c("#f94144", "#f9c74f", "#f8961e", "#577590", "#90be6d", "#43aa8b"))
+
+# exporting plot
+ggsave(
+  filename = file.path("../Figures", "sankey_example.png"), 
+  plot = sankey,
+  width = 11,
+  height = 8.5,
+  units = "in",    
+  dpi = 300
+)
 ```
